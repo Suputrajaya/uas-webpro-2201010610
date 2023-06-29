@@ -1,0 +1,11 @@
+judul project : Sistem konversi satuan dan konversi suhu.
+
+deskripsi :
+Sistem konversi satuan dan konversi suhu merupakan sistem yang digunakan untuk menghitung nilai dari satuan awal ke satuan hasil. 
+Untuk fiturnya sendiri ada konversi satuan panjang, satuan massa/berat dan suhu. 
+
+Pada halaman konversi satuan panjang, massa, maupun suhu, untuk penggunaan sistem konversinya user bisa memilih satuan awal yang 
+akan dikonversi dan memilih satuan hasil/tujuan konversi tersebut, setelah itu user menginputkan jumlah yang akan dikonversi, 
+lalu klik tombol konversi untuk mendapatkan hasilnya. 
+Terdapat juga halaman saran, dimana user bisa mengirimkan saran untuk improvment sistem selanjutnya.
+pada halaman admin,terdapat halaman untuk menampilkan saran dari user, dan hanya terdapat button delete untuk menghapus saran dari user.
